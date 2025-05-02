@@ -8,7 +8,7 @@ They use a library created by another builder called the ReelTwo library. This c
 
 ### Standard pins
 
-<table data-view="cards">
+<table>
     <thead>
         <tr>
             <th>Board</th>
