@@ -4,13 +4,31 @@ icon: bullseye-arrow
 
 # Quickstart
 
+First step is to check the [Kit contents](kit_contents.md) to make sure nothing is missing, and to familiarise yourself with the terminology used.
+
+# Wiring Up
+
+Breakout board -> RLD = 1 x 10cm
+Breakout board -> FLD = 1 x 30cm extension + 1 x 10cm
+FLD -> FLD = 1 x 10cm
+Breakout board -> FPSI = 1 x 30cm extension + 1 x 20cm
+Breakout board -> RPSI = 1 x 30cm
+Breakout board -> THP = 1 x 30cm extension + 1 x 10cm
+Breakout board -> RHP = 1 x 20cm
+Breakout board -> FHP = 1 x 30cm extension + 1 x 30cm
+
+# First Power
+
+{% hint style="warning" %}
+Whilst it is fine to use the USB connector for initial testing, they are fragile so shouldn't be used in a final install.
+{% endhint %}
+
+
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
-{% endhint %}
+
 
 ### Import
 
