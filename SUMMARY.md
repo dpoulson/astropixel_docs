@@ -9,8 +9,9 @@
 
 ## Advanced
 
+* [Overview] (advanced/overview.md)
 * [Setting Up](advanced/environment.md)
-* [Images & media](advanced/images-and-media.md)
+* [Changing Colors](advanced/colours.md)
 
 ## Troubleshooting
 

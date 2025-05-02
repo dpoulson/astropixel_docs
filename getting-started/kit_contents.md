@@ -1,7 +1,3 @@
----
-icon: globe-pointer
----
-
 # Contents
 
 Your kit should contain the following:
