@@ -1,5 +1,5 @@
 ---
-cover: hhttps://we-make-things.co.uk/wp-content/uploads/2024/04/316720132_844028233301927_5090764454239980872_n.jpg
+cover: https://we-make-things.co.uk/wp-content/uploads/2024/04/316720132_844028233301927_5090764454239980872_n.jpg
 coverY: 0
 layout:
   cover:
