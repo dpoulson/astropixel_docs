@@ -1,5 +1,3 @@
-# Quickstart
-
 First step is to check the [Kit contents](kit_contents.md) to make sure nothing is missing, and to familiarise yourself with the terminology used.
 
 # Wiring Up

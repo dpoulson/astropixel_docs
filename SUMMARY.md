@@ -8,6 +8,7 @@
 * [Kit Contents](getting-started/kit_contents.md)
 * [Power](getting-started/power.md)
 * [Installation](getting-started/installation.md)
+* [FAQ](getting-started/faq.md)
 
 ## Advanced
 
@@ -21,3 +22,13 @@
 ## Troubleshooting
 
 * [Basics](troubleshooting/basics.md)
+* [Original Firmware](troubleshooting/original_firmware.md)
+
+## FAQ
+
+* [General](faq/general.md)
+* [Construction/Design](faq/construction.md)
+* [Purchasing/Shipping](faq/purchasing.md)
+* [Support](faq/support.md)
+
+

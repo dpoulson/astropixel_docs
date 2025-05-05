@@ -1,5 +1,3 @@
-# Power
-
 The Astropixels require a clean 5V supply that can provide at least 1A of current. If you change the brightness or trigger certain effects then the current usage can be quite a bit higher. Most users shouldn't go over about 700mA with normal operation.
 
 # Options

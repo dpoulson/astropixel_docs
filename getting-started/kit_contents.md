@@ -12,5 +12,5 @@ Your kit should contain the following:
 * 2 x 20cm Servo cables
 * 4 x 10cm Servo cables
 
-<figure><img src="https://r2djp.co.uk/wp-content/uploads/2025/05/PXL_20240906_160041406-scaled-e1746200255207.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://we-make-things.co.uk/wp-content/uploads/2024/04/PXL_20240409_233712368-scaled.jpg" alt=""><figcaption></figcaption></figure>
 
