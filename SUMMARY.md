@@ -8,7 +8,6 @@
 * [Kit Contents](getting-started/kit_contents.md)
 * [Power](getting-started/power.md)
 * [Installation](getting-started/installation.md)
-* [FAQ](getting-started/faq.md)
 
 ## Advanced
 
